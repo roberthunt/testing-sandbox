@@ -6,6 +6,7 @@ services:
 cache:
   directories:
   - $HOME/.m2
+install: false
 before_script:
   - mysql -e 'create database db_test;'
 script: ./mvnw install -Dmaven.test.redirectTestOutputToFile=true
