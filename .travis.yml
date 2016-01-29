@@ -9,4 +9,4 @@ cache:
 install: true
 before_script:
   - mysql -e 'create database db_test;'
-script: ./mvnw install -Dmaven.test.redirectTestOutputToFile=true
+script: ./mvnw install
