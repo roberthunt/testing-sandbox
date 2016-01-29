@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <item id="1" checked="true" description="Item 1" />
+    <item id="2" checked="false" description="Item 2" />
+    <item id="3" checked="true" description="Item 3" />
+    <item id="4" checked="false" description="Item 4" />
+</dataset>
