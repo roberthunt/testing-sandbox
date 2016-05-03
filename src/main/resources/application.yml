@@ -6,3 +6,5 @@ spring.datasource.driver-class-name: com.mysql.jdbc.Driver
 
 # Specify the DBMS
 spring.jpa.database: MYSQL
+
+server.port: 9000
